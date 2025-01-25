@@ -1,0 +1,1 @@
+[{"name": "MERN stack roadmap", "time": "20 min"}, {"name": "React Hooks", "time": "30 min"}, {"name": "MongoDB Intro", "time": "40 min"}, {"name": "SQL and NODEJS", "time": "1 Hr"}]
