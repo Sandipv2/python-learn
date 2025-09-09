@@ -51,9 +51,6 @@ if __name__ == '__main__':
     greetMe()
     while True:
         q = takeCommand().lower()
-        
-        if q == 'none':
-            q = input('Enter: ')
 
         if 'about' in q:
             q = q.replace('about','').replace('tell me','')
